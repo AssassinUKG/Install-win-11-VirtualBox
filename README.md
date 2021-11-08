@@ -11,6 +11,9 @@ BypassSecureBootCheck 1
 BypassTPMCheck 1
 ```
 
+![image](https://user-images.githubusercontent.com/5285547/140798836-d8b99c80-00fc-46fe-a9d4-85d5b8c58196.png)
+
+
 4. Save
 5. Continue Install. 
 
