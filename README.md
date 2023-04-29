@@ -9,6 +9,8 @@ regedit
 Computer\HKEY_LOCAL_MACHINE\SYSTEM\Setup\LabConfig
 BypassSecureBootCheck 1
 BypassTPMCheck 1
+BypassCPUCheck
+BypassRAMCheck
 ```
 
 ![image](https://user-images.githubusercontent.com/5285547/140798836-d8b99c80-00fc-46fe-a9d4-85d5b8c58196.png)
